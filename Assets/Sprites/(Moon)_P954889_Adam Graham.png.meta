@@ -1,0 +1,1381 @@
+fileFormatVersion: 2
+guid: 8ae66938bdafa174a9d2b964d2187cdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7961724431371091103
+    second: (Moon)_P954889_Adam Graham_0
+  - first:
+      213: -6461304065494560331
+    second: (Moon)_P954889_Adam Graham_1
+  - first:
+      213: 1097627911753115387
+    second: (Moon)_P954889_Adam Graham_2
+  - first:
+      213: -7274692369806249658
+    second: (Moon)_P954889_Adam Graham_3
+  - first:
+      213: 2545530175651208761
+    second: (Moon)_P954889_Adam Graham_4
+  - first:
+      213: -3388596761679455491
+    second: (Moon)_P954889_Adam Graham_5
+  - first:
+      213: -6428358439121200223
+    second: (Moon)_P954889_Adam Graham_6
+  - first:
+      213: -126938224507622572
+    second: (Moon)_P954889_Adam Graham_7
+  - first:
+      213: -329568680389663186
+    second: (Moon)_P954889_Adam Graham_8
+  - first:
+      213: -4434408336738228157
+    second: (Moon)_P954889_Adam Graham_9
+  - first:
+      213: 1344217722643965225
+    second: (Moon)_P954889_Adam Graham_10
+  - first:
+      213: -4828969961928000520
+    second: (Moon)_P954889_Adam Graham_11
+  - first:
+      213: 6938454407357969007
+    second: (Moon)_P954889_Adam Graham_12
+  - first:
+      213: -5727099057150697668
+    second: (Moon)_P954889_Adam Graham_13
+  - first:
+      213: 2677301633331086428
+    second: (Moon)_P954889_Adam Graham_14
+  - first:
+      213: -6888883659922730559
+    second: (Moon)_P954889_Adam Graham_15
+  - first:
+      213: 8500778990152471229
+    second: (Moon)_P954889_Adam Graham_16
+  - first:
+      213: -1834677452446480510
+    second: (Moon)_P954889_Adam Graham_17
+  - first:
+      213: 8182031317559675852
+    second: (Moon)_P954889_Adam Graham_18
+  - first:
+      213: -4086880616691940349
+    second: (Moon)_P954889_Adam Graham_19
+  - first:
+      213: 1273663791009359254
+    second: (Moon)_P954889_Adam Graham_20
+  - first:
+      213: -3268032953673663085
+    second: (Moon)_P954889_Adam Graham_21
+  - first:
+      213: -8881394904887251622
+    second: (Moon)_P954889_Adam Graham_22
+  - first:
+      213: 6565976884036244109
+    second: (Moon)_P954889_Adam Graham_23
+  - first:
+      213: 6455247065507189106
+    second: (Moon)_P954889_Adam Graham_24
+  - first:
+      213: -8141120327399282374
+    second: (Moon)_P954889_Adam Graham_25
+  - first:
+      213: 8482602559783457884
+    second: (Moon)_P954889_Adam Graham_26
+  - first:
+      213: 801863768853531248
+    second: (Moon)_P954889_Adam Graham_27
+  - first:
+      213: -6405171086000896514
+    second: (Moon)_P954889_Adam Graham_28
+  - first:
+      213: 8053686884014345313
+    second: (Moon)_P954889_Adam Graham_29
+  - first:
+      213: -1720298484967562869
+    second: (Moon)_P954889_Adam Graham_30
+  - first:
+      213: 2984768739649659686
+    second: (Moon)_P954889_Adam Graham_31
+  - first:
+      213: -6745639168153854377
+    second: (Moon)_P954889_Adam Graham_32
+  - first:
+      213: 6175357174211750883
+    second: (Moon)_P954889_Adam Graham_33
+  - first:
+      213: -2111689599891508922
+    second: (Moon)_P954889_Adam Graham_34
+  - first:
+      213: 5146607601439387868
+    second: (Moon)_P954889_Adam Graham_35
+  - first:
+      213: 5527181693803778536
+    second: (Moon)_P954889_Adam Graham_36
+  - first:
+      213: 8294739875194320530
+    second: (Moon)_P954889_Adam Graham_37
+  - first:
+      213: -1122915649638675463
+    second: (Moon)_P954889_Adam Graham_38
+  - first:
+      213: 4628983675850762580
+    second: (Moon)_P954889_Adam Graham_39
+  - first:
+      213: -49503295089575952
+    second: (Moon)_P954889_Adam Graham_40
+  - first:
+      213: -3784111963786955722
+    second: (Moon)_P954889_Adam Graham_41
+  - first:
+      213: 2668306677960501964
+    second: (Moon)_P954889_Adam Graham_42
+  - first:
+      213: 517536291082108721
+    second: (Moon)_P954889_Adam Graham_43
+  - first:
+      213: -2614732913610796746
+    second: (Moon)_P954889_Adam Graham_44
+  - first:
+      213: 6200601531577079139
+    second: (Moon)_P954889_Adam Graham_45
+  - first:
+      213: -3850282850648773902
+    second: (Moon)_P954889_Adam Graham_46
+  - first:
+      213: 201260148366753463
+    second: (Moon)_P954889_Adam Graham_47
+  - first:
+      213: -7172755722801416453
+    second: (Moon)_P954889_Adam Graham_48
+  - first:
+      213: -7349549068340016986
+    second: (Moon)_P954889_Adam Graham_49
+  - first:
+      213: 5435457275656242600
+    second: (Moon)_P954889_Adam Graham_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c3c63ff2abd7e60800000000000000
+      internalID: 7961724431371091103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1d8669f26d456a0800000000000000
+      internalID: -6461304065494560331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6299f25ce8b3f00800000000000000
+      internalID: 1097627911753115387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641347725d91b0b90800000000000000
+      internalID: -7274692369806249658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e5abc353a835320800000000000000
+      internalID: 2545530175651208761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9e05e23949f0d0800000000000000
+      internalID: -3388596761679455491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abdb4bfe02e9c6a0800000000000000
+      internalID: -6428358439121200223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bedcb7b560d3ef0800000000000000
+      internalID: -126938224507622572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26a74408032d6bf0800000000000000
+      internalID: -329568680389663186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348efabbc11d572c0800000000000000
+      internalID: -4434408336738228157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9256af295ee97a210800000000000000
+      internalID: 1344217722643965225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbff34976d0cfcb0800000000000000
+      internalID: -4828969961928000520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62b0d0a5875a4060800000000000000
+      internalID: 6938454407357969007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fde0140c14580b0800000000000000
+      internalID: -5727099057150697668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54c54b86afa72520800000000000000
+      internalID: 2677301633331086428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c110576fc4c560a0800000000000000
+      internalID: -6888883659922730559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db25426d375d8f570800000000000000
+      internalID: 8500778990152471229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2874289d39ae986e0800000000000000
+      internalID: -1834677452446480510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0440122a6c8170800000000000000
+      internalID: 8182031317559675852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c5aa7bbb7847c0800000000000000
+      internalID: -4086880616691940349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695e3624876fca110800000000000000
+      internalID: 1273663791009359254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_21
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db20ae75d95a2d0800000000000000
+      internalID: -3268032953673663085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2b30c362feb480800000000000000
+      internalID: -8881394904887251622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82186020390f1b50800000000000000
+      internalID: 6565976884036244109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27150f43105a59950800000000000000
+      internalID: 6455247065507189106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_25
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3967ab123ee40f80800000000000000
+      internalID: -8141120327399282374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5456bad51248b570800000000000000
+      internalID: 8482602559783457884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a45cc69dac02b00800000000000000
+      internalID: 801863768853531248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_28
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5405555d24c17a0800000000000000
+      internalID: -6405171086000896514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc5edfc8174cf60800000000000000
+      internalID: 8053686884014345313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_30
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81add774a54028e0800000000000000
+      internalID: -1720298484967562869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_31
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623228fca570c6920800000000000000
+      internalID: 2984768739649659686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_32
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e5a3f9aeca262a0800000000000000
+      internalID: -6745639168153854377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_33
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb2d0aa1a643b550800000000000000
+      internalID: 6175357174211750883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_34
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64174924f75c1b2e0800000000000000
+      internalID: -2111689599891508922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_35
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0be1a785c6c6740800000000000000
+      internalID: 5146607601439387868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_36
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1573c577e74bc40800000000000000
+      internalID: 5527181693803778536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_37
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b93518f5dc1370800000000000000
+      internalID: 8294739875194320530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_38
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb4f868a2a9a60f0800000000000000
+      internalID: -1122915649638675463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_39
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459aa26b0247d3040800000000000000
+      internalID: 4628983675850762580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_40
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f779f0f301205ff0800000000000000
+      internalID: -49503295089575952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_41
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343c20d7322c7bc0800000000000000
+      internalID: -3784111963786955722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_42
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca63ab49cab70520800000000000000
+      internalID: 2668306677960501964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_43
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f7254c388ae2700800000000000000
+      internalID: 517536291082108721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_44
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631d4bdb44a96bbd0800000000000000
+      internalID: -2614732913610796746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_45
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3651563ad36fc0650800000000000000
+      internalID: 6200601531577079139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_46
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa2d42a52c019ac0800000000000000
+      internalID: -3850282850648773902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_47
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb7d2e9050bc200800000000000000
+      internalID: 201260148366753463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_48
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf675c94ca0457c90800000000000000
+      internalID: -7172755722801416453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Moon)_P954889_Adam Graham_49
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a84a4adf08210a90800000000000000
+      internalID: -7349549068340016986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

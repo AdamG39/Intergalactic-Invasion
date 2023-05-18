@@ -1,0 +1,1618 @@
+fileFormatVersion: 2
+guid: f3028123bb9496148b090ae5bd088763
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2328837824723447182
+    second: (Star)_P954889_Adam Graham_0
+  - first:
+      213: -2501446379356907751
+    second: (Star)_P954889_Adam Graham_1
+  - first:
+      213: -7509780190773769231
+    second: (Star)_P954889_Adam Graham_2
+  - first:
+      213: -2594649265842092858
+    second: (Star)_P954889_Adam Graham_3
+  - first:
+      213: 658209735850291534
+    second: (Star)_P954889_Adam Graham_4
+  - first:
+      213: -6577849167690925345
+    second: (Star)_P954889_Adam Graham_5
+  - first:
+      213: 2490886639001624015
+    second: (Star)_P954889_Adam Graham_6
+  - first:
+      213: 1377035417608551698
+    second: (Star)_P954889_Adam Graham_7
+  - first:
+      213: 660587150128461513
+    second: (Star)_P954889_Adam Graham_8
+  - first:
+      213: 2789649713556250969
+    second: (Star)_P954889_Adam Graham_9
+  - first:
+      213: 6077870341109230955
+    second: (Star)_P954889_Adam Graham_10
+  - first:
+      213: -6080245765549506389
+    second: (Star)_P954889_Adam Graham_11
+  - first:
+      213: -2498778761646866146
+    second: (Star)_P954889_Adam Graham_12
+  - first:
+      213: 2999147635187714580
+    second: (Star)_P954889_Adam Graham_13
+  - first:
+      213: -2968585088247976212
+    second: (Star)_P954889_Adam Graham_14
+  - first:
+      213: -1241076807654714511
+    second: (Star)_P954889_Adam Graham_15
+  - first:
+      213: 2896175829961645291
+    second: (Star)_P954889_Adam Graham_16
+  - first:
+      213: 4427197830916350312
+    second: (Star)_P954889_Adam Graham_17
+  - first:
+      213: -890146061942629640
+    second: (Star)_P954889_Adam Graham_18
+  - first:
+      213: 4904502894371558058
+    second: (Star)_P954889_Adam Graham_19
+  - first:
+      213: 8470674567500242457
+    second: (Star)_P954889_Adam Graham_20
+  - first:
+      213: 1692006620563642700
+    second: (Star)_P954889_Adam Graham_21
+  - first:
+      213: 5384824673850330735
+    second: (Star)_P954889_Adam Graham_22
+  - first:
+      213: 7362202177809222995
+    second: (Star)_P954889_Adam Graham_23
+  - first:
+      213: -1864986499983342511
+    second: (Star)_P954889_Adam Graham_24
+  - first:
+      213: 4010774083565832174
+    second: (Star)_P954889_Adam Graham_25
+  - first:
+      213: 467423059064094930
+    second: (Star)_P954889_Adam Graham_26
+  - first:
+      213: 4378432915615676560
+    second: (Star)_P954889_Adam Graham_27
+  - first:
+      213: 1086662695667828386
+    second: (Star)_P954889_Adam Graham_28
+  - first:
+      213: 5368644779982878064
+    second: (Star)_P954889_Adam Graham_29
+  - first:
+      213: 2427748563044913349
+    second: (Star)_P954889_Adam Graham_30
+  - first:
+      213: 4638791333478644181
+    second: (Star)_P954889_Adam Graham_31
+  - first:
+      213: -6492107529941477605
+    second: (Star)_P954889_Adam Graham_32
+  - first:
+      213: 2615221849582255935
+    second: (Star)_P954889_Adam Graham_33
+  - first:
+      213: -7170256558208361435
+    second: (Star)_P954889_Adam Graham_34
+  - first:
+      213: -6794985981808941368
+    second: (Star)_P954889_Adam Graham_35
+  - first:
+      213: -1905928199612283290
+    second: (Star)_P954889_Adam Graham_36
+  - first:
+      213: -792642176656324210
+    second: (Star)_P954889_Adam Graham_37
+  - first:
+      213: 8473473083761299778
+    second: (Star)_P954889_Adam Graham_38
+  - first:
+      213: -7770952196801183314
+    second: (Star)_P954889_Adam Graham_39
+  - first:
+      213: -7279217179950991948
+    second: (Star)_P954889_Adam Graham_40
+  - first:
+      213: -4017377196734556665
+    second: (Star)_P954889_Adam Graham_41
+  - first:
+      213: 4357537241433134719
+    second: (Star)_P954889_Adam Graham_42
+  - first:
+      213: 708976127026646861
+    second: (Star)_P954889_Adam Graham_43
+  - first:
+      213: 8334189741990939548
+    second: (Star)_P954889_Adam Graham_44
+  - first:
+      213: -912513087820347706
+    second: (Star)_P954889_Adam Graham_45
+  - first:
+      213: 54649763444367261
+    second: (Star)_P954889_Adam Graham_46
+  - first:
+      213: 1877238529335579791
+    second: (Star)_P954889_Adam Graham_47
+  - first:
+      213: -1808008556905797262
+    second: (Star)_P954889_Adam Graham_48
+  - first:
+      213: -7473701235874861270
+    second: (Star)_P954889_Adam Graham_49
+  - first:
+      213: -3448998471799724963
+    second: (Star)_P954889_Adam Graham_50
+  - first:
+      213: -2650427662179486367
+    second: (Star)_P954889_Adam Graham_51
+  - first:
+      213: 4074981234155752736
+    second: (Star)_P954889_Adam Graham_52
+  - first:
+      213: -5324097578880333225
+    second: (Star)_P954889_Adam Graham_53
+  - first:
+      213: 3482127192279704331
+    second: (Star)_P954889_Adam Graham_54
+  - first:
+      213: -7280889790985824370
+    second: (Star)_P954889_Adam Graham_55
+  - first:
+      213: -6849127557095571107
+    second: (Star)_P954889_Adam Graham_56
+  - first:
+      213: -4580966198222203696
+    second: (Star)_P954889_Adam Graham_57
+  - first:
+      213: 8328551966243772752
+    second: (Star)_P954889_Adam Graham_58
+  - first:
+      213: 2260870281577409325
+    second: (Star)_P954889_Adam Graham_59
+  - first:
+      213: -4828018769284621297
+    second: (Star)_P954889_Adam Graham_60
+  - first:
+      213: -8416650598391672999
+    second: (Star)_P954889_Adam Graham_61
+  - first:
+      213: 7001876764665259119
+    second: (Star)_P954889_Adam Graham_62
+  - first:
+      213: 6108126264886652101
+    second: (Star)_P954889_Adam Graham_63
+  - first:
+      213: -2255583677841670691
+    second: (Star)_P954889_Adam Graham_64
+  - first:
+      213: 4816760044789006794
+    second: (Star)_P954889_Adam Graham_65
+  - first:
+      213: -375189715483337391
+    second: (Star)_P954889_Adam Graham_66
+  - first:
+      213: -8458821060810757359
+    second: (Star)_P954889_Adam Graham_67
+  - first:
+      213: -8409987269909657804
+    second: (Star)_P954889_Adam Graham_68
+  - first:
+      213: 4232645407952952469
+    second: (Star)_P954889_Adam Graham_69
+  - first:
+      213: 8346380966295665631
+    second: (Star)_P954889_Adam Graham_70
+  - first:
+      213: -4547291829086896657
+    second: (Star)_P954889_Adam Graham_71
+  - first:
+      213: 6701939430076364752
+    second: (Star)_P954889_Adam Graham_72
+  - first:
+      213: 5673574830281385804
+    second: (Star)_P954889_Adam Graham_73
+  - first:
+      213: -8404710275572332670
+    second: (Star)_P954889_Adam Graham_74
+  - first:
+      213: -8743029246929289524
+    second: (Star)_P954889_Adam Graham_75
+  - first:
+      213: -2949745199206519409
+    second: (Star)_P954889_Adam Graham_76
+  - first:
+      213: -4611773819829354047
+    second: (Star)_P954889_Adam Graham_77
+  - first:
+      213: 4634719686671408610
+    second: (Star)_P954889_Adam Graham_78
+  - first:
+      213: 5011904143482759455
+    second: (Star)_P954889_Adam Graham_79
+  - first:
+      213: 7132308487876794967
+    second: (Star)_P954889_Adam Graham_80
+  - first:
+      213: 5476047206220734203
+    second: (Star)_P954889_Adam Graham_0
+  - first:
+      213: 281225702677914743
+    second: (Star)_P954889_Adam Graham_1
+  - first:
+      213: -6017935921770442755
+    second: (Star)_P954889_Adam Graham_2
+  - first:
+      213: 4184738991646094904
+    second: (Star)_P954889_Adam Graham_3
+  - first:
+      213: 8350959119486693158
+    second: (Star)_P954889_Adam Graham_4
+  - first:
+      213: 8825571675428527745
+    second: (Star)_P954889_Adam Graham_5
+  - first:
+      213: -1539212096512664116
+    second: (Star)_P954889_Adam Graham_6
+  - first:
+      213: -103720988712430961
+    second: (Star)_P954889_Adam Graham_7
+  - first:
+      213: 5407074658069711296
+    second: (Star)_P954889_Adam Graham_9
+  - first:
+      213: -3578980361494155501
+    second: (Star)_P954889_Adam Graham_10
+  - first:
+      213: 393753246788683708
+    second: (Star)_P954889_Adam Graham_11
+  - first:
+      213: 4306374300579441612
+    second: (Star)_P954889_Adam Graham_12
+  - first:
+      213: 8794837136026753355
+    second: (Star)_P954889_Adam Graham_13
+  - first:
+      213: -379093854204220104
+    second: (Star)_P954889_Adam Graham_14
+  - first:
+      213: 974189350444428456
+    second: (Star)_P954889_Adam Graham_15
+  - first:
+      213: -1784049366409681987
+    second: (Star)_P954889_Adam Graham_16
+  - first:
+      213: -877719340592177312
+    second: (Star)_P954889_Adam Graham_17
+  - first:
+      213: 3626389355258597301
+    second: (Star)_P954889_Adam Graham_18
+  - first:
+      213: 6774477518088879512
+    second: (Star)_P954889_Adam Graham_19
+  - first:
+      213: -6308993817680764339
+    second: (Star)_P954889_Adam Graham_20
+  - first:
+      213: -2795447076297156103
+    second: (Star)_P954889_Adam Graham_21
+  - first:
+      213: 260852486065607321
+    second: (Star)_P954889_Adam Graham_22
+  - first:
+      213: 5528748038882055488
+    second: (Star)_P954889_Adam Graham_23
+  - first:
+      213: 9185547239317802406
+    second: (Star)_P954889_Adam Graham_24
+  - first:
+      213: -8193742096175509930
+    second: (Star)_P954889_Adam Graham_25
+  - first:
+      213: 7185597150181618934
+    second: (Star)_P954889_Adam Graham_26
+  - first:
+      213: 5791178125497692138
+    second: (Star)_P954889_Adam Graham_27
+  - first:
+      213: 3538918621315818071
+    second: (Star)_P954889_Adam Graham_28
+  - first:
+      213: -3937088314833372268
+    second: (Star)_P954889_Adam Graham_29
+  - first:
+      213: 6231812067354419537
+    second: (Star)_P954889_Adam Graham_30
+  - first:
+      213: 7154512283619932101
+    second: (Star)_P954889_Adam Graham_31
+  - first:
+      213: -1942318328285624772
+    second: (Star)_P954889_Adam Graham_32
+  - first:
+      213: -1908582306859279178
+    second: (Star)_P954889_Adam Graham_33
+  - first:
+      213: 5365381592954396967
+    second: (Star)_P954889_Adam Graham_34
+  - first:
+      213: 5711433528053867313
+    second: (Star)_P954889_Adam Graham_35
+  - first:
+      213: -12921951552872995
+    second: (Star)_P954889_Adam Graham_36
+  - first:
+      213: 7246844953289728685
+    second: (Star)_P954889_Adam Graham_37
+  - first:
+      213: -3294688558182987038
+    second: (Star)_P954889_Adam Graham_38
+  - first:
+      213: -6328967660280332874
+    second: (Star)_P954889_Adam Graham_39
+  - first:
+      213: 1759857236586108434
+    second: (Star)_P954889_Adam Graham_40
+  - first:
+      213: -2901379627586884784
+    second: (Star)_P954889_Adam Graham_41
+  - first:
+      213: -2348115474354324954
+    second: (Star)_P954889_Adam Graham_42
+  - first:
+      213: -2615366496290978548
+    second: (Star)_P954889_Adam Graham_43
+  - first:
+      213: -662539624304545139
+    second: (Star)_P954889_Adam Graham_44
+  - first:
+      213: 1782495486421220946
+    second: (Star)_P954889_Adam Graham_45
+  - first:
+      213: 7070136955804050598
+    second: (Star)_P954889_Adam Graham_46
+  - first:
+      213: -4835386256010056728
+    second: (Star)_P954889_Adam Graham_47
+  - first:
+      213: 5989264763203048606
+    second: (Star)_P954889_Adam Graham_48
+  - first:
+      213: 4067367427139517485
+    second: (Star)_P954889_Adam Graham_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe9e04bbe3defb40800000000000000
+      internalID: 5476047206220734203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a3dd594d17e300800000000000000
+      internalID: 281225702677914743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff4fcdd92ffb7ca0800000000000000
+      internalID: -6017935921770442755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836bac2f0fd231a30800000000000000
+      internalID: 4184738991646094904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f20dae21194e370800000000000000
+      internalID: 8350959119486693158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9aadcdaaba7a70800000000000000
+      internalID: 8825571675428527745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd069d0ce93aae0800000000000000
+      internalID: -1539212096512664116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f821b007f428f8ef0800000000000000
+      internalID: -103720988712430961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6389a5380ea2900800000000000000
+      internalID: 660587150128461513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9034ce0c9c90b40800000000000000
+      internalID: 5407074658069711296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31faa0fc258e45ec0800000000000000
+      internalID: -3578980361494155501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70ff3ed74e67500800000000000000
+      internalID: 393753246788683708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccba8e73c9053cb30800000000000000
+      internalID: 4306374300579441612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d94637c98d0a70800000000000000
+      internalID: 8794837136026753355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83daf9be5203dbaf0800000000000000
+      internalID: -379093854204220104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac65318d04058d00800000000000000
+      internalID: 974189350444428456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e365bd88cd37e0800000000000000
+      internalID: -1784049366409681987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f538bf8e6b1d3f0800000000000000
+      internalID: -877719340592177312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf4279b7e5835230800000000000000
+      internalID: 3626389355258597301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dbe84f867c30e50800000000000000
+      internalID: 6774477518088879512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42a00f9c83f178a0800000000000000
+      internalID: -6308993817680764339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f957ece1b39439d0800000000000000
+      internalID: -2795447076297156103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d7ba34fbbe9300800000000000000
+      internalID: 260852486065607321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d33e7c0f0abc40800000000000000
+      internalID: 5528748038882055488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad8b1b0c8e997f70800000000000000
+      internalID: 9185547239317802406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e4b40d9faf94e80800000000000000
+      internalID: -8193742096175509930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f472a3898e58b360800000000000000
+      internalID: 7185597150181618934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6d4972d56e5050800000000000000
+      internalID: 5791178125497692138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7526b807cb3cc1130800000000000000
+      internalID: 3538918621315818071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bf3098907ac59c0800000000000000
+      internalID: -3937088314833372268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15127a5ce08db7650800000000000000
+      internalID: 6231812067354419537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b556040fe94360800000000000000
+      internalID: 7154512283619932101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360ec175cf7b05e0800000000000000
+      internalID: -1942318328285624772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_33
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc9e07018a5385e0800000000000000
+      internalID: -1908582306859279178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_34
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721677cb12aa57a40800000000000000
+      internalID: 5365381592954396967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_35
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13328e58886134f40800000000000000
+      internalID: 5711433528053867313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_36
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddd2e3bd8712dff0800000000000000
+      internalID: -12921951552872995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_37
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2aa2fe617f19460800000000000000
+      internalID: 7246844953289728685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_38
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea85fb563ae642d0800000000000000
+      internalID: -3294688558182987038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_39
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd3e0ef17dfa28a0800000000000000
+      internalID: -6328967660280332874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2169d1225d44c6810800000000000000
+      internalID: 1759857236586108434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_41
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05be023d99a3cb7d0800000000000000
+      internalID: -2901379627586884784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_42
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a338bba61d96fd0800000000000000
+      internalID: -2348115474354324954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_43
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c054e17470a54bbd0800000000000000
+      internalID: -2615366496290978548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_44
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82f4b3d8bf2ec6f0800000000000000
+      internalID: -662539624304545139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_45
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ebfd96332bcb810800000000000000
+      internalID: 1782495486421220946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_46
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ef042a1c2e1260800000000000000
+      internalID: 7070136955804050598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_47
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe6b2b1d145ecb0800000000000000
+      internalID: -4835386256010056728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e945b74d1942e1350800000000000000
+      internalID: 5989264763203048606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Star)_P954889_Adam Graham_49
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c35a90021327830800000000000000
+      internalID: 4067367427139517485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

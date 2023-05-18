@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: b0e4cee4458136d43b23c5df558a2b4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6912622879388336975
+    second: (DryPlanet)_P954889_Adam Graham_0
+  - first:
+      213: 2425186654937689330
+    second: (DryPlanet)_P954889_Adam Graham_1
+  - first:
+      213: -4506231725090849557
+    second: (DryPlanet)_P954889_Adam Graham_2
+  - first:
+      213: 989977069777499687
+    second: (DryPlanet)_P954889_Adam Graham_3
+  - first:
+      213: 796352102241379789
+    second: (DryPlanet)_P954889_Adam Graham_4
+  - first:
+      213: 6900309034813819330
+    second: (DryPlanet)_P954889_Adam Graham_5
+  - first:
+      213: 2135540374218743948
+    second: (DryPlanet)_P954889_Adam Graham_6
+  - first:
+      213: 1859001067867265682
+    second: (DryPlanet)_P954889_Adam Graham_7
+  - first:
+      213: -6754515600367721729
+    second: (DryPlanet)_P954889_Adam Graham_8
+  - first:
+      213: 593171107658119892
+    second: (DryPlanet)_P954889_Adam Graham_9
+  - first:
+      213: -5809900742208312767
+    second: (DryPlanet)_P954889_Adam Graham_10
+  - first:
+      213: -2735200652108641794
+    second: (DryPlanet)_P954889_Adam Graham_11
+  - first:
+      213: 2470153340367190181
+    second: (DryPlanet)_P954889_Adam Graham_12
+  - first:
+      213: -7760053431132801092
+    second: (DryPlanet)_P954889_Adam Graham_13
+  - first:
+      213: -7089951611596941080
+    second: (DryPlanet)_P954889_Adam Graham_14
+  - first:
+      213: -342028157774777394
+    second: (DryPlanet)_P954889_Adam Graham_15
+  - first:
+      213: 1318410163843293808
+    second: (DryPlanet)_P954889_Adam Graham_16
+  - first:
+      213: 165829085248330835
+    second: (DryPlanet)_P954889_Adam Graham_17
+  - first:
+      213: 1947283863261994
+    second: (DryPlanet)_P954889_Adam Graham_18
+  - first:
+      213: -2627318296220152015
+    second: (DryPlanet)_P954889_Adam Graham_19
+  - first:
+      213: 5948574836886115428
+    second: (DryPlanet)_P954889_Adam Graham_20
+  - first:
+      213: 8064850745412812064
+    second: (DryPlanet)_P954889_Adam Graham_21
+  - first:
+      213: 4482386487188312047
+    second: (DryPlanet)_P954889_Adam Graham_22
+  - first:
+      213: 4003774973761579392
+    second: (DryPlanet)_P954889_Adam Graham_23
+  - first:
+      213: 4253444176280708239
+    second: (DryPlanet)_P954889_Adam Graham_24
+  - first:
+      213: 5714937904784358595
+    second: (DryPlanet)_P954889_Adam Graham_25
+  - first:
+      213: -3910993355051611772
+    second: (DryPlanet)_P954889_Adam Graham_26
+  - first:
+      213: -5096349239008556287
+    second: (DryPlanet)_P954889_Adam Graham_27
+  - first:
+      213: -240427607087272970
+    second: (DryPlanet)_P954889_Adam Graham_28
+  - first:
+      213: 5225718920219790565
+    second: (DryPlanet)_P954889_Adam Graham_29
+  - first:
+      213: -830695645685904415
+    second: (DryPlanet)_P954889_Adam Graham_30
+  - first:
+      213: -6150673710024077669
+    second: (DryPlanet)_P954889_Adam Graham_31
+  - first:
+      213: 2524153675161156222
+    second: (DryPlanet)_P954889_Adam Graham_32
+  - first:
+      213: -4351434669948463726
+    second: (DryPlanet)_P954889_Adam Graham_33
+  - first:
+      213: 8974032748082103134
+    second: (DryPlanet)_P954889_Adam Graham_34
+  - first:
+      213: 163057763560423883
+    second: (DryPlanet)_P954889_Adam Graham_35
+  - first:
+      213: -7154338564057877131
+    second: (DryPlanet)_P954889_Adam Graham_36
+  - first:
+      213: 8526122598055791730
+    second: (DryPlanet)_P954889_Adam Graham_37
+  - first:
+      213: -6624522006393410884
+    second: (DryPlanet)_P954889_Adam Graham_38
+  - first:
+      213: 8551187517138229166
+    second: (DryPlanet)_P954889_Adam Graham_39
+  - first:
+      213: 8029833433137695150
+    second: (DryPlanet)_P954889_Adam Graham_40
+  - first:
+      213: -2889885644243333453
+    second: (DryPlanet)_P954889_Adam Graham_41
+  - first:
+      213: -3559562064161342281
+    second: (DryPlanet)_P954889_Adam Graham_42
+  - first:
+      213: -6113139184338283846
+    second: (DryPlanet)_P954889_Adam Graham_43
+  - first:
+      213: -1414782366244428778
+    second: (DryPlanet)_P954889_Adam Graham_44
+  - first:
+      213: -5286109749987081242
+    second: (DryPlanet)_P954889_Adam Graham_45
+  - first:
+      213: 1208859677909630340
+    second: (DryPlanet)_P954889_Adam Graham_46
+  - first:
+      213: -6459693808929089369
+    second: (DryPlanet)_P954889_Adam Graham_47
+  - first:
+      213: -7331685973788462410
+    second: (DryPlanet)_P954889_Adam Graham_48
+  - first:
+      213: 5071836916144415623
+    second: (DryPlanet)_P954889_Adam Graham_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f430e2852e19eef50800000000000000
+      internalID: 6912622879388336975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc2499d96ef7a120800000000000000
+      internalID: 2425186654937689330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec3d5efe16a671c0800000000000000
+      internalID: -4506231725090849557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726bedb56ea1dbd00800000000000000
+      internalID: 989977069777499687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ab3a84063d0b00800000000000000
+      internalID: 796352102241379789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c90f7cf182d2cf50800000000000000
+      internalID: 6900309034813819330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8020d0e7a6f2ad10800000000000000
+      internalID: 2135540374218743948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29adc4f2f9f7cc910800000000000000
+      internalID: 1859001067867265682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff26f3239d32342a0800000000000000
+      internalID: -6754515600367721729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dabcfacafd5b3800800000000000000
+      internalID: 593171107658119892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2560ae061f5fa0800000000000000
+      internalID: -5809900742208312767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9c5a5af7d9a0ad0800000000000000
+      internalID: -2735200652108641794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8b459206fb74220800000000000000
+      internalID: 2470153340367190181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb73747d480ce4490800000000000000
+      internalID: -7760053431132801092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e85e0cc29e6b9d90800000000000000
+      internalID: -7089951611596941080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec337a0e33fd04bf0800000000000000
+      internalID: -342028157774777394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e42c0f0feb4210800000000000000
+      internalID: 1318410163843293808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c97a7aca42d4200800000000000000
+      internalID: 165829085248330835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2352fa5b0be60000800000000000000
+      internalID: 1947283863261994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc9e10ee3e98bd0800000000000000
+      internalID: -2627318296220152015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4649c681c459d8250800000000000000
+      internalID: 5948574836886115428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_21
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dffd6060b1cef60800000000000000
+      internalID: 8064850745412812064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefcedae2c2a43e30800000000000000
+      internalID: 4482386487188312047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08968af2024409730800000000000000
+      internalID: 4003774973761579392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f846a2f41f4470b30800000000000000
+      internalID: 4253444176280708239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_25
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc3610deb98f4f40800000000000000
+      internalID: 5714937904784358595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4894c31d34c59b9c0800000000000000
+      internalID: -3910993355051611772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b00956e512649b0800000000000000
+      internalID: -5096349239008556287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_28
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbad5d7d54d9acf0800000000000000
+      internalID: -240427607087272970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec0dbfbbab758840800000000000000
+      internalID: 5225718920219790565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_30
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb8d6226b6c874f0800000000000000
+      internalID: -830695645685904415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_31
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e4ea039da64aaa0800000000000000
+      internalID: -6150673710024077669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_32
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a3a7ed468970320800000000000000
+      internalID: 2524153675161156222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_33
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295176af8399c93c0800000000000000
+      internalID: -4351434669948463726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_34
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530828ec3b2a8c70800000000000000
+      internalID: 8974032748082103134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_35
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc183ea0c2c434200800000000000000
+      internalID: 163057763560423883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_36
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b3763bfea6bc90800000000000000
+      internalID: -7154338564057877131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_37
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ccb80645fd25670800000000000000
+      internalID: 8526122598055791730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_38
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa92a5558f014a0800000000000000
+      internalID: -6624522006393410884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_39
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea757ce9dbbeba670800000000000000
+      internalID: 8551187517138229166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_40
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea94abba6f2bf6f60800000000000000
+      internalID: 8029833433137695150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_41
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be006d515015e7d0800000000000000
+      internalID: -2889885644243333453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_42
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf4b97925e99ec0800000000000000
+      internalID: -3559562064161342281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_43
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2def6fc44c92ba0800000000000000
+      internalID: -6113139184338283846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_44
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a3890feead5ce0800000000000000
+      internalID: -1414782366244428778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_45
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e38a4c7037f3a6b0800000000000000
+      internalID: -5286109749987081242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_46
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48db815e87bb6c010800000000000000
+      internalID: 1208859677909630340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_47
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ddf8a4be8a56a0800000000000000
+      internalID: -6459693808929089369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_48
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ff97a37e904a90800000000000000
+      internalID: -7331685973788462410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (DryPlanet)_P954889_Adam Graham_49
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7832081bdc8c26640800000000000000
+      internalID: 5071836916144415623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
