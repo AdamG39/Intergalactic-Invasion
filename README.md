@@ -1,6 +1,6 @@
 # Intergalactic-Invasion
 
-Simple 2D Space Invaders like game created using the Unity game engine. This game was created as part of a college exam and so it made in a limited time frame. The games difficulty (especially when fighting the boss) is quite unforgiving but I wasn't able to fix this issue in the time frame. There are a number of improvements to be made on this project however for the time being this project is finished and likely to never be revisited.
+Simple 2D Space Invaders like game created using the Unity game engine. This was created as part of a college exam, so it was made in a limited time frame. The games difficulty (especially when fighting the boss) is relatively unforgiving but I wasn't able to rebalance it in the time frame. There are a number of improvements that could be made to this project however for the time being this project is finished and likely to never be revisited.
 
 ## How to play
 
