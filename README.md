@@ -15,7 +15,7 @@ An online and downloadable copy is available on Itch.io [here](https://theagamer
 
 ![player dead](/Assets/Examples/Player_Dead_Example_SC.png)
 
-![player win](/Assets/Examples/Player_Win_Example_SC.png)
+![player win](/Assets/Examples/Win_Example_SC.png)
 
 ## License
 
